@@ -22,7 +22,7 @@
 
 ## Requests
 
-- [x] \<language>
+- [x] \<Language>
 
 ## Contributing
 
@@ -48,4 +48,4 @@ Example:
 ### Requesting a language
 
 - Fork repo
-- Edit the README.md file with ```- [x] <Language>```, where \<Language> is the language's name. It should be capitalized.
+- Edit the README.md file's "Requests" with ```- [x] <Language>```, where \<Language> is the language's name. It should be capitalized.
