@@ -2,9 +2,6 @@
 
 "Hello, World!" in *every* programming language.
 
-- [ ] \<language>
-- [x] \<language>
-
 ## Current List
 
 - [x] Bash
