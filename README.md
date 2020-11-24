@@ -1,6 +1,6 @@
 # HelloWorld
 
-"Hello, World!" in *every* programming language.
+Print "jello!" in *every* programming language.
 
 ## Current List
 
@@ -32,8 +32,8 @@ All pull requests are welcome! Please do the following if you'd like to add a la
 
 - Fork the repo
 - Create a folder named after the language. The first letter should be capitalized.
-- Create a file name "hello.ext" in the new folder, where "ext" is the language's file extension.
-- In the new file, add how to print "hello!" with that language
+- Create a file name "jello.ext" in the new folder, where "ext" is the language's file extension.
+- In the new file, add how to print "jello!" with that language
 - Edit the README.md file to include the language in the "Current List". It should be capitalized and include a markdown "task list"
 - Make a pull request
 
@@ -48,4 +48,4 @@ Example:
 ### Requesting a language
 
 - Fork repo
-- Edit the README.md file's "Requests" with ```- [x] <Language>```, where \<Language> is the language's name. It should be capitalized.
+- Edit the README.md file's "Requests" with ```- [ ] <Language>```, where \<Language> is the language's name. It should be capitalized.
