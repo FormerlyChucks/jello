@@ -5,6 +5,7 @@ Print "jello!" in *every* programming language.
 ## Current List
 
 - [x] Bash
+- [x] Brainfuck
 - [x] Dart
 - [x] Go
 - [x] Groovy
