@@ -12,6 +12,7 @@ Print "jello!" in *every* programming language.
 - [x] HTML
 - [x] Haskell
 - [x] Java
+- [x] JavaScript
 - [x] Julia
 - [x] Kotlin
 - [x] Lua
