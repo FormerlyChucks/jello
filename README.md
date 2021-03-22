@@ -19,6 +19,7 @@ Print "jello!" in *every* programming language.
 - [x] PHP
 - [x] Perl
 - [x] Python
+- [x] QBasic
 - [x] Ruby
 - [x] Rust
 - [x] Scala
