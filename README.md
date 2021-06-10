@@ -37,12 +37,12 @@ Print "jello!" in *every* programming language.
 
 ## Requests
 
-- [] Haxe
-- [] Elixir
-- [] x86-Assembly
-- [] Q#
-- [] Clojure
-- [] Racket
+- [ ] Haxe
+- [ ] Elixir
+- [ ] x86-Assembly
+- [ ] Q#
+- [ ] Clojure
+- [ ] Racket
 - [x] \<Language>
 
 ## Contributing
