@@ -44,10 +44,10 @@ Print "jello!" in *every* programming language.
 - [x] Swift
 - [x] TypeScript
 - [x] VBScript
+- [x] x86_64 Assembly
 
 ## Requests
 
-- [ ] x86-Assembly
 - [ ] Q#
 - [ ] Racket
 - [x] \<Language>
