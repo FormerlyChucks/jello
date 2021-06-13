@@ -21,8 +21,8 @@ Print "jello!" in *every* programming language.
 - [x] F#
 - [x] Go
 - [x] Groovy
-- [x] Haxe
 - [x] Haskell
+- [x] Haxe
 - [x] HTML
 - [x] Java
 - [x] JavaScript
