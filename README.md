@@ -38,6 +38,7 @@ Print "jello!" in *every* programming language.
 - [x] Ruby
 - [x] Rust
 - [x] Scala
+- [x] Swift
 - [x] TypeScript
 - [x] VBScript
 
