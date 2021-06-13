@@ -1,0 +1,4 @@
+local Io = require "luan:Io.luan"
+local print = Io.print
+
+print("jello!")
