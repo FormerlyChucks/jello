@@ -5,8 +5,10 @@ Print "jello!" in *every* programming language.
 ## Current List
 
 - [x] Ada
+- [x] AppleScript
 - [x] AutoHotkey
 - [x] Bash
+- [x] Basic
 - [x] Batch
 - [x] Brainfuck
 - [x] C
@@ -14,6 +16,9 @@ Print "jello!" in *every* programming language.
 - [x] C++
 - [x] CoffeeScript
 - [x] Dart
+- [x] Delphi
+- [x] E
+- [x] F#
 - [x] Go
 - [x] Groovy
 - [x] HTML
@@ -23,6 +28,7 @@ Print "jello!" in *every* programming language.
 - [x] Julia
 - [x] Kotlin
 - [x] Lua
+- [x] Pascal
 - [x] Perl
 - [x] PHP
 - [x] PowerShell
