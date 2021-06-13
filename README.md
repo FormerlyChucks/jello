@@ -14,10 +14,12 @@ Print "jello!" in *every* programming language.
 - [x] C
 - [x] C#
 - [x] C++
+- [x] Clojure
 - [x] CoffeeScript
 - [x] Dart
 - [x] Delphi
 - [x] E
+- [x] Elixir
 - [x] F#
 - [x] Go
 - [x] Groovy
@@ -45,10 +47,8 @@ Print "jello!" in *every* programming language.
 
 ## Requests
 
-- [ ] Elixir
 - [ ] x86-Assembly
 - [ ] Q#
-- [ ] Clojure
 - [ ] Racket
 - [x] \<Language>
 
