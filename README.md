@@ -6,8 +6,8 @@ Print "jello!" in *every* programming language.
 
 - [x] Ada
 - [x] AppleScript
-- [x] AutoHotkey
 - [x] Assembly
+- [x] AutoHotkey
 - [x] Bash
 - [x] Basic
 - [x] Batch
