@@ -6,20 +6,24 @@ Contributors:
   DPS2004
   EthanMcBloxxer
   SomeRandom-Dev
+  troglodytto
 Ada: EthanMcBloxxer
 AppleScript: SomeRandom-Dev
+Assembly: troglodytto
 AutoHotkey: EthanMcBloxxer
 Bash: IThinkImOKAY
 Basic: SomeRandom-Dev
 Batch: EthanMcBloxxer
 Brainfuck: DPS2004
 C: EthanMcBloxxer
+Clojure: troglodytto
 "C#": EthanMcBloxxer
 C++: EthanMcBloxxer
 CoffeeScript: EthanMcBloxxer
 Dart: IThinkImOKAY
 Delphi: SomeRandom-Dev
 E: SomeRandom-Dev
+Elixir: troglodytto
 "F#": SomeRandom-Dev
 Go: IThinkImOKAY
 Groovy: IThinkImOKAY
@@ -40,6 +44,7 @@ R: EthanMcBloxxer
 Ruby: IThinkImOKAY
 Rust: IThinkImOKAY
 Scala: IThinkImOKAY
+Scheme: troglodytto
 Swift: SomeRandom-Dev
 TypeScript: EthanMcBloxxer
 VBScript: EthanMcBloxxer
