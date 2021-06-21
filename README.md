@@ -1,4 +1,4 @@
-# HelloWorld
+# JelloWorld
 
 Print "jello!" in *every* programming language.
 
@@ -32,6 +32,7 @@ Print "jello!" in *every* programming language.
 - [x] Julia
 - [x] Kotlin
 - [x] Lua
+- [x] Moliere
 - [x] Pascal
 - [x] Perl
 - [x] PHP
