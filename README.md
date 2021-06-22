@@ -48,6 +48,7 @@ Print "jello!" in *every* programming language.
 - [x] TI-83 BASIC
 - [x] TypeScript
 - [x] VBScript
+- [x] Whitespace 
 
 ## Requests
 
