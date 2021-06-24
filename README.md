@@ -40,6 +40,7 @@ Print "jello!" in *every* programming language.
 - [x] Python
 - [x] QBasic
 - [x] R
+- [x] Racket
 - [x] Ruby
 - [x] Rust
 - [x] Scala
@@ -53,7 +54,6 @@ Print "jello!" in *every* programming language.
 ## Requests
 
 - [ ] Q#
-- [ ] Racket
 - [x] \<Language>
 
 ## Contributing
