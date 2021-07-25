@@ -35,6 +35,7 @@ Print "jello!" in *every* programming language.
 - [x] Kotlin
 - [x] Lua
 - [x] Moliere
+- [x] OCaml
 - [x] Pascal
 - [x] Perl
 - [x] PHP
