@@ -1,0 +1,5 @@
+Use Windows.pkg
+
+Showln "jello!"
+
+inkey windowindex
