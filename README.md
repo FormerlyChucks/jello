@@ -23,6 +23,7 @@ Print "jello!" in *every* programming language.
 - [x] E
 - [x] Elixir
 - [x] F#
+- [x] Forth
 - [x] Fortran
 - [x] Go
 - [x] Groovy
