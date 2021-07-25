@@ -18,6 +18,7 @@ Print "jello!" in *every* programming language.
 - [x] Clojure
 - [x] CoffeeScript
 - [x] Dart
+- [x] DataFlex
 - [x] Delphi
 - [x] E
 - [x] Elixir
