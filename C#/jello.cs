@@ -1,7 +1,1 @@
-class jello
-{
-    static void Main()
-    {
-        System.Console.WriteLine("jello!");
-    }
-}
+System.Console.WriteLine("jello!");
