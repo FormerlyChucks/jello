@@ -48,6 +48,7 @@ Print "jello!" in *every* programming language.
 - [x] Swift
 - [x] TI-83 BASIC
 - [x] TypeScript
+- [x] V
 - [x] VBScript
 - [x] Whitespace 
 
