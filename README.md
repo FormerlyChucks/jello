@@ -77,7 +77,7 @@ Example:
 
 - Fork repo
 - Create folder named "Text"
-- In "/Text", add file "hello.txt" with the text "hello!"
+- In "/Text", add file "jello.txt" with the text "jello!"
 - Add ```- [x] Text``` to "Current List"
 - Make pull request
 
