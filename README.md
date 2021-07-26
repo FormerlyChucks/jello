@@ -42,6 +42,7 @@ Print "jello!" in *every* programming language.
 - [x] Pascal
 - [x] Perl
 - [x] PHP
+- [x] Piet
 - [x] PowerShell
 - [x] Python
 - [x] QBasic
