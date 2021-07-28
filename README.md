@@ -17,6 +17,7 @@ Print "jello!" in *every* programming language.
 - [x] C++
 - [x] Clojure
 - [x] CoffeeScript
+- [x] COBOL
 - [x] Common Lisp
 - [x] Crystal
 - [x] Dart
