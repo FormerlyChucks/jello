@@ -59,10 +59,10 @@ Print "jello!" in *every* programming language.
 - [x] V
 - [x] VBScript
 - [x] Whitespace 
+- [x] Q#
 
 ## Requests
 
-- [ ] Q#
 - [x] \<Language>
 
 ## Contributing
