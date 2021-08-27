@@ -47,6 +47,7 @@ Print "jello!" in *every* programming language.
 - [x] PowerShell
 - [x] Python
 - [x] QBasic
+- [x] Q#
 - [x] R
 - [x] Racket
 - [x] Ruby
@@ -59,7 +60,6 @@ Print "jello!" in *every* programming language.
 - [x] V
 - [x] VBScript
 - [x] Whitespace 
-- [x] Q#
 
 ## Requests
 
