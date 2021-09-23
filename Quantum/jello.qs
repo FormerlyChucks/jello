@@ -1,5 +1,1 @@
-namespace Microsoft.Quantum.jello {
-        Message($"jello!");
-    }
-}
-
+Message($"jello!");
