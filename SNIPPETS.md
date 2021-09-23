@@ -340,6 +340,13 @@ PRINT "jello!"
 
 ```
 
+## Q#
+
+```
+Message($"jello!");
+
+```
+
 
 ## R
 
