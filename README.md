@@ -37,6 +37,7 @@ Print "jello!" in *every* programming language.
 - [x] JavaScript
 - [x] Julia
 - [x] Kotlin
+- [x] LOLCODE
 - [x] Lua
 - [x] Moliere
 - [x] OCaml
